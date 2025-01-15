@@ -1,0 +1,17 @@
+/*.iml
+composer.phar
+composer.lock
+var
+vendor
+.idea/
+.vscode/
+coverage.clover
+**/tests/coverage
+**/tests/runtime/cache
+.php_cs.cache
+phpunit.xml
+psalm.xml
+phpstan.neon
+.php-cs-fixer.cache
+
+/.env
